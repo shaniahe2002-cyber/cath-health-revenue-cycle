@@ -2,6 +2,9 @@
 # Reducing Denials and AR Delays: A Revenue Cycle SQL Analysis
 
 **Cath Health Group** (fictional multi-specialty clinic) | 800 claims, FY 2024
+![AR Aging Distribution by Specialty](ar_aging_distribution.png)
+
+![Denial Rate by Specialty and Payer](denial_rate_by_specialty_payer.png)
 
 ## Problem
 
